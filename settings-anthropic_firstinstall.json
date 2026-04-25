@@ -1,0 +1,6 @@
+{
+    "model": "tencent/hy3-preview:free",
+    "effortLevel": "high",
+    "autoUpdatesChannel": "latest",
+    "theme": "dark-ansi"
+}
